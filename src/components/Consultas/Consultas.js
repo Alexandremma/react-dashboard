@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-class Consultas extends Component {
+class Consultas extends Component { 
 
     constructor(props) {
         super(props);
